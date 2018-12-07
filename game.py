@@ -1,4 +1,4 @@
-champ = ["Lizard", "Bird", "Wizard"]
+champ = ["Lizard", "Bird", "Programmer"]
 print(str(champ) + " Select one of these!")
 user = input("Choose your character: ")
 
